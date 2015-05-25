@@ -15,3 +15,5 @@ How?
 - Dual Microwaves - talk to greg (hihi) before trying to cook eggs
 - Rice cooker - no not be fooled, it won't turn off when the rice is cooked. also good for soups & risottoey things
 
+Credit to Geordi & co for the idea to put this on github,
+I'm only hosting this repo until it gets picked up by EDA!
