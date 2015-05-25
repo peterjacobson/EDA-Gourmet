@@ -4,6 +4,7 @@
 - garlic
 - soy-sauce
 - chipolata & cranberry hot sauce made my Mahlia
-Cooked till it seemed done
+- Cooked till it seemed done
+- Total time ~ 10 mins
 
 ![](tofufun.jpg?raw=true)
